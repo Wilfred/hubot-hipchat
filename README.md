@@ -1,4 +1,8 @@
-# hubot-hipchat
+# hubot-hipchat-latest
+
+This is a friendly fork
+of [hubot-hipchat](https://github.com/hipchat/hubot-hipchat) with
+upstream PRs tested and merged.
 
 ## Quickstart: Hubot for HipChat on Heroku
 
